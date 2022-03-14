@@ -26,12 +26,18 @@ p{
 */
 .segment img{
   max-width:  300px;
-  float: left;
+
   margin: 0px 5px 5px 0px;
+  margin-right:  10px;
+  float: left
+  nargin-bottom: 10px
 }
 
-.segment .centerimg{
-  float: none;
+.segment .rightimg {
+  float: right;
+
+  .segment .leftimg {
+    float: left;
 }
 
 
